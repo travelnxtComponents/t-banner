@@ -7,7 +7,11 @@
 
 - List of images with Text will be given
 - Some default rotation time will be predefined
-- 
+- Icons will be there in case of multiple images and using those user can rotate them
+- In ipads and mobiles -> Rotation should happen on swipe
+- Capability to put a placeholder for any component (Properties would be Right align and left align)
+- Image orientation (Properties would be Cover and Contain)
+- Text provided with image should have property to mentioned color and font size
 
 
 ## Test Cases
